@@ -249,3 +249,12 @@ O resultado é uma documentação reutilizável sobre **Inovação Digital e Gov
 **Fábio Pio**
 
 Projeto desenvolvido para desafio prático da **DIO — Digital Innovation One**.
+
+
+---
+
+## 📊 Material Complementar
+
+Como complemento ao projeto, foi desenvolvida uma apresentação executiva consolidando a jornada de aprendizagem realizada com o NotebookLM, incluindo a curadoria das fontes, os experimentos de Engenharia de Prompts, as cicatrizes identificadas e os principais aprendizados.
+
+👉 [Visualizar apresentação do projeto](./Apresentacao_Projeto_DIO_NotebookLM_OCDE.pptx)
