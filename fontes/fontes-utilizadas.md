@@ -6,9 +6,11 @@ Foram selecionadas cinco fontes principais para compor a base documental do proj
 
 ## 1. Confederação Nacional da Indústria — CNI
 
-**Documento:** 1. CONTEXTO - Portal da Indústria  
+**Documento:** Inovação Digital a partir da Perspectiva da OCDE  
 **Instituição:** Confederação Nacional da Indústria (CNI)  
-**Tema:** Inovação digital sob a perspectiva da OCDE, instrumentos regulatórios, inovação aberta, privacidade e governança de dados.
+**Publicação:** Março de 2021  
+**Tema:** Inovação digital sob a perspectiva da OCDE, instrumentos regulatórios, inovação aberta, privacidade e governança de dados.  
+**Link:** https://www.portaldaindustria.com.br/publicacoes/2021/3/inovacao-digital-partir-da-perspectiva-da-ocde/
 
 ---
 
@@ -16,8 +18,8 @@ Foram selecionadas cinco fontes principais para compor a base documental do proj
 
 **Documento:** Relatório contendo análise da evolução das tecnologias digitais no Brasil  
 **Instituição:** Centro de Gestão e Estudos Estratégicos (CGEE)  
-**Ano:** 2025  
-**Tema:** Evolução de tecnologias como Inteligência Artificial, IoT, Big Data, robótica e computação em nuvem no Brasil.
+**Tema:** Evolução de tecnologias digitais no Brasil, incluindo Inteligência Artificial, IoT, Big Data, robótica e computação em nuvem.  
+**Link:** https://www.cgee.org.br/pt/prestacao-de-contas?delta=60
 
 ---
 
@@ -25,29 +27,32 @@ Foram selecionadas cinco fontes principais para compor a base documental do proj
 
 **Documento:** Estudo Macrotendências 2026–2027  
 **Instituição:** Firjan IEL  
-**Ano:** 2025  
-**Tema:** Soberania tecnológica, convivência entre humanos e máquinas, sensores inteligentes, tecnologias industriais e tendências de transformação digital.
+**Publicação:** 2025  
+**Tema:** Tendências tecnológicas, soberania tecnológica, transformação digital, futuro do trabalho e inovação.  
+**Link:** https://casafirjan.com.br/report-macrotendencias/estudo-macrotendencias-2026-2027
 
 ---
 
 ## 4. Revista Produção Online
 
 **Documento:** Gerenciamento de Riscos em Projetos no Contexto da Indústria 4.0: Um Estudo de Caso  
-**Publicação:** Revista Produção Online  
-**Ano:** 2021  
-**Tema:** Gestão de riscos em projetos de Indústria 4.0 e análise das dimensões de recursos, sistemas de informação, cultura e organização.
+**Autores:** Francine Domingos de Paula, Maria Júlia Xavier Belém e Daniel Luis Garrido Monaro  
+**Publicação:** Revista Produção Online, v. 21, n. 2, 2021  
+**Tema:** Gestão e classificação de riscos associados a projetos no contexto da Indústria 4.0.  
+**Link:** https://www.producaoonline.org.br/rpo/article/view/4265
 
 ---
 
 ## 5. DocuSign
 
 **Documento:** Como calcular o ROI da transformação digital?  
-**Tipo:** Conteúdo digital  
-**Tema:** Transformação digital, eficiência de processos e aspectos relacionados à segurança e gestão de informações.
+**Instituição:** DocuSign  
+**Tema:** Transformação digital, retorno sobre investimento, eficiência de processos e digitalização empresarial.  
+**Link:** https://www.docusign.com/pt-br/blog/como-calcular-o-roi-da-transformacao-digital
 
 ---
 
-## Critério de Curadoria
+## 🔎 Critério de Curadoria
 
 As fontes foram selecionadas buscando combinar:
 
@@ -55,6 +60,6 @@ As fontes foram selecionadas buscando combinar:
 - estudos acadêmicos;
 - relatórios sobre tecnologias digitais;
 - materiais relacionados à governança tecnológica;
-- aplicações e riscos associados à transformação digital.
+- aplicações, oportunidades e riscos associados à transformação digital.
 
 A combinação dessas fontes permitiu utilizar o NotebookLM como ferramenta de aprendizagem ativa, comparando conceitos, realizando experimentos de Engenharia de Prompts e produzindo o Miniguia de Estudos do projeto.
