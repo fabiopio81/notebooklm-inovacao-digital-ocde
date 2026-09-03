@@ -1,196 +1,205 @@
 # 📘 Inovação Digital e Governança Industrial — Perspectiva OCDE
 
-## Projeto de Aprendizagem Ativa com NotebookLM
+## 🚀 Projeto de Aprendizagem Ativa com NotebookLM
 
-Este projeto foi desenvolvido como parte de um desafio prático da **DIO (Digital Innovation One)**, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
+Este repositório documenta um projeto desenvolvido como parte de um desafio prático da **DIO (Digital Innovation One)**, explorando o uso da Inteligência Artificial como ferramenta de **aprendizagem ativa baseada em fontes**.
 
-O **NotebookLM** foi utilizado como ambiente de estudo para organizar e analisar fontes, formular perguntas estratégicas, experimentar diferentes técnicas de prompting e consolidar o conhecimento adquirido em um miniguia temático.
+O **NotebookLM** foi utilizado para organizar e analisar documentos, formular perguntas estratégicas, comparar diferentes técnicas de Engenharia de Prompts, identificar limitações das fontes e consolidar o conhecimento adquirido em um miniguia temático.
+
+> **Tema do projeto:** Inovação Digital e Governança Industrial sob a Perspectiva da OCDE.
 
 ---
 
 ## 🎯 1. Contexto e Objetivos
 
-O tema escolhido para o caderno temático foi:
+A transformação digital está modificando profundamente os processos industriais, combinando tecnologias como Inteligência Artificial, Internet das Coisas (IoT), automação, sistemas ciber-físicos e análise de dados.
 
-**Inovação Digital e Governança Industrial sob a Perspectiva da OCDE.**
-
-A escolha do tema permitiu explorar a relação entre transformação digital, inovação industrial, Inteligência Artificial, segurança digital e governança.
+Ao mesmo tempo, essa evolução exige novos modelos de governança, segurança digital, gestão de riscos e desenvolvimento de competências profissionais.
 
 ### Objetivos de aprendizagem
 
-- Analisar aplicações da Inteligência Artificial em ambientes industriais;
-- Compreender a importância da segurança digital na Indústria 4.0;
-- Diferenciar instrumentos e diretrizes de governança da OCDE;
-- Compreender o conceito de *spillovers* de pesquisa;
-- Relacionar infraestrutura digital, conectividade e desenvolvimento da economia digital;
-- Experimentar o NotebookLM como ferramenta de aprendizagem baseada em fontes;
-- Desenvolver técnicas de engenharia de prompts.
+- Compreender conceitos relacionados à inovação e transformação digital;
+- analisar diretrizes de governança tecnológica associadas à OCDE;
+- avaliar riscos relacionados à Indústria 4.0;
+- estudar aplicações de Inteligência Artificial em ambientes industriais;
+- compreender aspectos de segurança digital e gestão de riscos;
+- experimentar o NotebookLM como ferramenta de aprendizagem baseada em fontes;
+- desenvolver e testar técnicas de Engenharia de Prompts;
+- compreender os limites de respostas produzidas por IA quando as fontes são insuficientes.
 
 ---
 
 ## 📚 2. Curadoria de Fontes
 
-Para construir o caderno temático, foram selecionados materiais relacionados à inovação digital, governança tecnológica e políticas da OCDE.
+Foram selecionadas **cinco fontes principais** relacionadas aos eixos temáticos do projeto:
 
-Entre os documentos e referências utilizados estão:
+1. **Confederação Nacional da Indústria — CNI**  
+   *1. CONTEXTO - Portal da Indústria*
 
-1. **Portal da Indústria — CNI**  
-   Briefing "Inovação Digital a partir da Perspectiva da OCDE".
+2. **Centro de Gestão e Estudos Estratégicos — CGEE**  
+   *Relatório contendo análise da evolução das tecnologias digitais no Brasil*
 
-2. **OCDE — Diretrizes para Ciência, Tecnologia e Inovação**
+3. **Firjan IEL**  
+   *Estudo Macrotendências 2026–2027*
 
-3. **Recomendação sobre Gestão de Risco de Segurança Digital**
+4. **Revista Produção Online**  
+   *Gerenciamento de Riscos em Projetos no Contexto da Indústria 4.0: Um Estudo de Caso*
 
-4. **Recomendação sobre Inteligência Artificial**
+5. **DocuSign**  
+   *Como calcular o ROI da transformação digital?*
 
-5. **Recomendação sobre Segurança Digital de Atividades Críticas**
+📂 A descrição da curadoria está disponível em:
 
-6. **Recomendação sobre Acesso a Dados de Pesquisa de Financiamento Público**
-
-Essas fontes foram utilizadas como base documental para as consultas realizadas no NotebookLM.
-
----
-
-## 🧠 3. Metodologia de Aprendizagem
-
-O projeto foi desenvolvido em quatro etapas:
-
-### Etapa 1 — Curadoria
-
-Seleção de fontes relacionadas ao tema escolhido.
-
-### Etapa 2 — Construção da base de conhecimento
-
-Inserção e organização das fontes no NotebookLM.
-
-### Etapa 3 — Exploração com Inteligência Artificial
-
-Realização de perguntas estratégicas e experimentos com diferentes estruturas de prompts.
-
-### Etapa 4 — Consolidação
-
-Organização dos conhecimentos adquiridos em um miniguia contendo resumos, conceitos-chave, glossário e prompts reutilizáveis.
+➡️ [Consultar as fontes utilizadas](fontes/fontes-utilizadas.md)
 
 ---
 
-## 💬 4. Engenharia de Prompts
+## 🧠 3. Como utilizei o NotebookLM
 
-Um dos objetivos do projeto foi analisar como diferentes formas de elaborar uma pergunta podem influenciar a resposta produzida pela IA.
+O NotebookLM foi utilizado como ambiente central de pesquisa e aprendizagem ativa.
 
-### Experimento 1 — Prompt simples x Prompt estruturado
+Durante o projeto, a ferramenta auxiliou na:
 
-**Prompt inicial:**
+- organização das fontes;
+- análise e síntese dos documentos;
+- formulação de perguntas;
+- comparação entre diferentes estruturas de prompts;
+- aplicação de conceitos a cenários industriais;
+- identificação de limitações da base documental;
+- criação de material de revisão;
+- elaboração do miniguia de estudos.
 
-> Explique como a Inteligência Artificial pode contribuir para a indústria segundo os materiais disponíveis neste caderno.
-
-**Prompt refinado:**
-
-> Com base exclusivamente nas fontes disponíveis neste caderno, explique como a Inteligência Artificial pode contribuir para a indústria.
->
-> Organize a resposta em:
-> 1. Aplicações práticas;
-> 2. Benefícios esperados;
-> 3. Possíveis riscos;
-> 4. Princípios de IA confiável;
-> 5. Conclusão.
->
-> Não utilize informações externas ao caderno e relacione as afirmações às fontes utilizadas.
-
-### Resultado
-
-O resultado deste experimento será documentado após a comparação das respostas geradas pelo NotebookLM.
+A experiência permitiu avaliar não apenas as respostas produzidas pela IA, mas também **como a construção do prompt influencia a profundidade, a contextualização e os limites da resposta**.
 
 ---
 
-## 🔧 5. Cicatrizes e Troubleshooting
+## 🧪 4. Engenharia de Prompts
 
-Além dos resultados positivos, o projeto busca documentar as dificuldades encontradas durante a interação com a Inteligência Artificial.
+Foram realizados três experimentos principais.
 
-A primeira hipótese analisada foi que prompts muito amplos podem produzir respostas menos direcionadas.
+### Experimento 1 — Prompt Simples vs. Estruturado
 
-Para melhorar o resultado, foram adicionados aos prompts:
+Foi comparada uma pergunta aberta com uma versão estruturada contendo persona, contexto, seções obrigatórias e exigência de utilização das fontes.
 
-- contexto;
-- objetivo;
-- estrutura esperada;
-- restrição às fontes;
-- critérios para elaboração da resposta.
+**Principal aprendizado:** prompts mais estruturados produziram respostas mais contextualizadas e direcionadas ao objetivo do estudo.
 
-Os resultados e aprendizados dos experimentos serão registrados nesta seção conforme os testes forem realizados.
+➡️ [Ver Experimento 1](experimentos/teste-01-prompt-simples-vs-estruturado.md)
+
+### Experimento 2 — Teoria vs. Aplicação Prática
+
+Foi comparada uma pergunta conceitual sobre gestão de risco de segurança digital com um cenário aplicado a uma fábrica automotiva conectada por dispositivos IoT.
+
+**Principal aprendizado:** a contextualização permitiu transformar conceitos teóricos em análise de uma situação industrial.
+
+➡️ [Ver Experimento 2](experimentos/teste-02-teoria-vs-aplicacao.md)
+
+### Experimento 3 — Limites das Fontes
+
+O NotebookLM foi solicitado a apresentar casos empresariais contendo dados financeiros específicos, com a proibição explícita de estimativas e informações externas.
+
+As fontes disponíveis não continham todos os dados necessários.
+
+**Principal aprendizado:** um prompt também deve estabelecer claramente o que a IA **não deve fazer**, incluindo instruções para reconhecer quando as informações disponíveis são insuficientes.
+
+➡️ [Ver Experimento 3](experimentos/teste-03-limites-das-fontes.md)
+
+---
+
+## 🩹 5. Cicatrizes e Troubleshooting
+
+Os experimentos permitiram registrar três aprendizados importantes sobre Engenharia de Prompts.
+
+### Cicatriz 1 — Estrutura do prompt
+
+Perguntas abertas podem produzir respostas genéricas.
+
+**Solução:** utilizar persona, contexto, estrutura obrigatória e delimitação clara do objetivo.
+
+### Cicatriz 2 — Contextualização
+
+Conceitos teóricos podem permanecer abstratos quando apresentados isoladamente.
+
+**Solução:** utilizar cenários práticos e situações próximas do problema que está sendo estudado.
+
+### Cicatriz 3 — Limites e alucinação
+
+Quando a informação solicitada não existe nas fontes, a IA pode não possuir elementos suficientes para responder.
+
+**Solução:** utilizar restrições explícitas como:
+
+> Não invente dados.  
+> Não faça estimativas.  
+> Não utilize informações externas.  
+> Caso as fontes sejam insuficientes, informe explicitamente a limitação.
 
 ---
 
 ## 📖 6. Miniguia de Estudos
 
-### Inovação Digital
+O material produzido durante o projeto foi consolidado em uma documentação temática que aborda:
 
-A inovação digital envolve o uso de tecnologias digitais para implementar ou aprimorar produtos, processos e práticas organizacionais.
+- inovação digital;
+- governança tecnológica;
+- Indústria 4.0;
+- Inteligência Artificial;
+- sistemas ciber-físicos;
+- segurança digital;
+- gestão de riscos;
+- soberania tecnológica;
+- computação de borda;
+- gêmeos digitais;
+- Engenharia de Prompts.
 
-Entre os aspectos estudados estão:
-
-- dados como insumo para inovação;
-- desenvolvimento de serviços digitais;
-- aceleração dos ciclos de inovação;
-- colaboração interdisciplinar.
-
-### Inteligência Artificial
-
-A Inteligência Artificial pode apoiar processos industriais, incluindo análises preditivas e gestão de inventários.
-
-O estudo também aborda princípios relacionados à utilização de uma IA confiável.
-
-### Segurança Digital
-
-A segurança digital possui papel relevante na proteção de atividades críticas e na continuidade de operações industriais dependentes de infraestrutura de informação.
-
-### Infraestrutura Digital
-
-Infraestruturas de conectividade, como banda larga e redes móveis, possuem relação direta com o desenvolvimento da economia digital.
+➡️ [Acessar a documentação completa e o Miniguia](documentacao-projeto.md)
 
 ---
 
-## 📕 7. Glossário
+## 📘 7. Glossário
 
-| Conceito | Definição |
-|---|---|
-| **Economia Digital** | Sistema no qual as tecnologias digitais possuem papel central nas atividades econômicas. |
-| **TIC** | Tecnologias de Informação e Comunicação. |
-| **Spillovers de Pesquisa** | Benefícios e conhecimentos provenientes de pesquisas que podem alcançar outros setores da economia. |
-| **IA Confiável** | Abordagem de IA baseada em princípios como crescimento inclusivo, valores humanos, transparência, segurança e responsabilidade. |
-| **Segurança Digital** | Gestão de riscos associados às atividades dependentes de sistemas e infraestrutura digital. |
-| **Autenticação Eletrônica** | Mecanismos utilizados para estabelecer confiança em transações digitais. |
-| **Banda Larga** | Infraestrutura de conectividade que possibilita transmissão de dados e desenvolvimento de serviços digitais. |
+Entre os conceitos consolidados durante o estudo estão:
 
----
+**Sistemas Ciber-Físicos (CPS)**  
+Integração entre elementos computacionais, redes e processos físicos utilizados em ambientes industriais conectados.
 
-## 🤖 8. Biblioteca de Prompts Reutilizáveis
+**Tríade CID**  
+Princípios de Confidencialidade, Integridade e Disponibilidade aplicados à segurança da informação.
 
-### Prompt 1 — Governança de Dados
+**Soberania Tecnológica**  
+Capacidade estratégica relacionada ao controle e à redução da dependência de infraestruturas tecnológicas externas.
 
-> Atue como um Conselheiro de Políticas da OCDE. Analise um cenário no qual uma agência nacional de pesquisa busca compartilhar dados de um projeto financiado publicamente com uma indústria local, considerando aspectos relacionados à privacidade e ao compartilhamento de dados.
+**Edge Computing**  
+Processamento de dados realizado próximo à origem da informação, como sensores e dispositivos industriais.
 
-### Prompt 2 — Segurança Industrial 4.0
+**Digital Twins**  
+Representações digitais de ambientes, equipamentos ou processos físicos utilizadas para análise e simulação.
 
-> Atue como consultor de segurança digital. Identifique riscos em uma linha de montagem automotiva que utiliza dispositivos IoT e proponha uma estratégia de gestão de risco fundamentada nas fontes disponíveis.
-
-### Prompt 3 — IA Ética e Confiável
-
-> Desenvolva um plano estratégico para uma empresa utilizar Inteligência Artificial na gestão de inventários considerando os princípios de IA confiável estudados no caderno.
+O glossário completo está disponível na [documentação do projeto](documentacao-projeto.md).
 
 ---
 
-## 🎓 9. Principais Aprendizados
+## 💡 8. Prompts Reutilizáveis
 
-O desenvolvimento do projeto permitiu explorar a Inteligência Artificial não apenas como ferramenta de geração de respostas, mas como instrumento de apoio à aprendizagem.
+O projeto também resultou na criação de templates reutilizáveis para:
 
-Entre os principais pontos trabalhados estão:
+- análise de riscos sistêmicos na Indústria 4.0;
+- avaliação de práticas de IA ética e confiável;
+- análise da transformação digital e inovação industrial sob a perspectiva da OCDE.
 
-- importância da curadoria das fontes;
-- elaboração de perguntas estratégicas;
-- engenharia de prompts;
-- análise crítica das respostas;
-- identificação dos limites da base documental;
-- organização e consolidação do conhecimento.
+Os templates completos estão disponíveis na [documentação do projeto](documentacao-projeto.md).
+
+---
+
+## 🏆 9. Principais Aprendizados
+
+O desenvolvimento do projeto demonstrou que:
+
+- IA pode atuar como ferramenta de aprendizagem ativa quando fundamentada em fontes;
+- a estrutura do prompt influencia significativamente a resposta;
+- contextualização melhora a aplicação prática dos conceitos;
+- restrições negativas ajudam a controlar os limites da resposta;
+- reconhecer a insuficiência das fontes é parte importante do uso responsável da IA;
+- segurança digital deve acompanhar a evolução da transformação industrial;
+- Engenharia de Prompts é uma competência importante para utilização crítica de sistemas de IA generativa.
 
 ---
 
@@ -199,18 +208,44 @@ Entre os principais pontos trabalhados estão:
 ```text
 notebooklm-inovacao-digital-ocde/
 │
-├── README.md
-│
-├── docs/
-│   └── miniguia-estudos.docx
-│
 ├── experimentos/
 │   ├── teste-01-prompt-simples-vs-estruturado.md
 │   ├── teste-02-teoria-vs-aplicacao.md
-│   └── teste-03-limites-da-ia.md
+│   └── teste-03-limites-das-fontes.md
 │
 ├── fontes/
 │   └── fontes-utilizadas.md
 │
-└── midia/
-    └── a-bussola-da-ocde.mp4
+├── documentacao-projeto.md
+└── README.md
+```
+
+---
+
+## 🛠️ 11. Tecnologias e Ferramentas
+
+- **NotebookLM** — pesquisa e aprendizagem baseada em fontes;
+- **Inteligência Artificial Generativa** — apoio à análise e síntese;
+- **Engenharia de Prompts** — estruturação e controle das interações;
+- **Markdown** — documentação;
+- **GitHub** — versionamento, organização e publicação do projeto.
+
+---
+
+## 🎓 12. Conclusão
+
+Este projeto demonstra uma aplicação prática de Inteligência Artificial como ferramenta de aprendizagem.
+
+Mais do que obter respostas prontas, o objetivo foi utilizar o NotebookLM para **questionar, comparar, testar, revisar e consolidar conhecimento** a partir de uma base documental.
+
+Os experimentos também demonstraram a importância de formular boas instruções, estabelecer limites para a IA e reconhecer situações em que as fontes disponíveis não são suficientes para sustentar uma resposta.
+
+O resultado é uma documentação reutilizável sobre **Inovação Digital e Governança Industrial sob a Perspectiva da OCDE**, acompanhada dos experimentos que fizeram parte do processo de aprendizagem.
+
+---
+
+## 👤 Autor
+
+**Fábio Pio**
+
+Projeto desenvolvido para desafio prático da **DIO — Digital Innovation One**.
